@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+AwesomeLibs/*
+
 # C extensions
 *.so
 **/data
@@ -102,3 +104,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Tensorflow_/noise_removal/tfmodels/gaussian_auto_encoder.h5
