@@ -5,6 +5,8 @@ __pycache__/
 
 AwesomeLibs/*
 
+AwesomeLibs/*
+
 
 # C extensions
 *.so
