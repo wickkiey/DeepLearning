@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 AwesomeLibs/*
+**/training_checkpoints/*
 
 AwesomeLibs/*
 
